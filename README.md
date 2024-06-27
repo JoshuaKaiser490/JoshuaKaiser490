@@ -1,6 +1,6 @@
 # Hello everyone! 👋
 
-I'm Joshua, a 26-year-old aspiring web developer from Osnabrück, Germany. Currently at the beginning of my journey into web development, fueled by a passion for learning and a strong interest in crafting digital experiences. My coding adventure is just unfolding, and I'm excited to explore the wide world of web development, from HTML and CSS to JavaScript and beyond 🖥️.
+I'm Joshua, a 26-year-old aspiring web developer from Osnabrück, Germany. With a solid foundation in web development, I've gained experience in both frontend and backend technologies. I've honed my skills in crafting digital experiences using HTML, CSS, SASS, and JavaScript for the frontend, and Node.js for the backend. My coding journey continues to unfold, and I'm excited to keep exploring and growing in the ever-evolving world of web development 🖥️.
 
 ## Outside the coding realm
 
